@@ -1,0 +1,131 @@
+{
+  "todos": [
+    {
+      "id": "cced",
+      "title": "Bu haftaki ders tekrarlarını yapmayı unutma!",
+      "status": "personal",
+      "date": "8/11/2024, 3:53:17 PM"
+    },
+    {
+      "id": "8956",
+      "title": "Uygulamayı githuba yükle",
+      "status": "important",
+      "date": "8/12/2024, 5:32:08 PM"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Cengiz Aydemir",
+      "email": "cengiz@example.com",
+      "username": "cengo14",
+      "age": 34,
+      "address": "Bolu, Türkiye"
+    },
+    {
+      "id": "2",
+      "name": "Ayşe Şeyma Yazır",
+      "email": "ayse@example.com",
+      "username": "ayseseyma_y",
+      "age": 33,
+      "address": "Antalya, Türkiye"
+    },
+    {
+      "id": "3",
+      "name": "Fatime Hınçal",
+      "email": "fatime@example.com",
+      "username": "fatime14",
+      "age": 28,
+      "address": "Bolu, Türkiye"
+    },
+    {
+      "id": "4",
+      "name": "Abdullah Aydemir",
+      "email": "abdullah@example.com",
+      "username": "apo14",
+      "age": 30,
+      "address": "Bolu, Türkiye"
+    }
+  ],
+  "activity": [
+    {
+      "id": "1",
+      "description": "Koşuya çık",
+      "date": "2024-08-01",
+      "duration": 30,
+      "type": "Egzersiz",
+      "location": "Park"
+    },
+    {
+      "id": "2",
+      "description": "Kitap oku",
+      "date": "2024-08-02",
+      "duration": 60,
+      "type": "Dinlenme",
+      "location": "Ev"
+    },
+    {
+      "id": "3",
+      "description": "Arkadaşlarla buluş",
+      "date": "2024-08-03",
+      "duration": 120,
+      "type": "Sosyal",
+      "location": "Kafe"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 7500,
+      "description": "Yüksek performanslı bir laptop",
+      "category": "Elektronik",
+      "stock": 15
+    },
+    {
+      "id": "2",
+      "name": "Kulaklık",
+      "price": 250,
+      "description": "Kablosuz kulaklık",
+      "category": "Elektronik",
+      "stock": 50
+    },
+    {
+      "id": "3",
+      "name": "Ofis Sandalyesi",
+      "price": 1200,
+      "description": "Ergonomik ofis sandalyesi",
+      "category": "Mobilya",
+      "stock": 30
+    }
+  ],
+  "cars": [
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "price": 200000,
+      "mileage": 15000,
+      "color": "Beyaz"
+    },
+    {
+      "id": "2",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "price": 190000,
+      "mileage": 20000,
+      "color": "Siyah"
+    },
+    {
+      "id": "3",
+      "brand": "Ford",
+      "model": "Focus",
+      "year": 2018,
+      "price": 180000,
+      "mileage": 25000,
+      "color": "Gri"
+    }
+  ]
+}
