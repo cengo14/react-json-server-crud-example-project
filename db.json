@@ -1,16 +1,22 @@
 {
   "todos": [
     {
-      "id": "cced",
-      "title": "Bu haftaki ders tekrarlarını yapmayı unutma!",
-      "status": "personal",
-      "date": "8/11/2024, 3:53:17 PM"
-    },
-    {
       "id": "8956",
       "title": "Uygulamayı githuba yükle",
       "status": "important",
       "date": "8/12/2024, 5:32:08 PM"
+    },
+    {
+      "id": "703d",
+      "title": "Günlük spor rutinlerini aksatma",
+      "status": "personal",
+      "date": "9/28/2024, 12:33:18 PM"
+    },
+    {
+      "id": "0d9f",
+      "title": "Github'daki projelerin readme'lerini hazırla",
+      "status": "job",
+      "date": "9/28/2024, 12:34:01 PM"
     }
   ],
   "users": [
